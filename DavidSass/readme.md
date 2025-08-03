@@ -20,4 +20,6 @@ In this session, I’ll demonstrate how I used PowerShell Notebooks to develop t
 
 Prerequisite: Watch Execute Notebooks Everywhere from PSConfEU 2024. This session will arm you with actionable insights to improve your SOC’s performance and drive down costs.
 
+[![Watch the video](https://img.youtube.com/vi/cbUktoR8z8A/hqdefault.jpg)](https://www.youtube.com/embed/cbUktoR8z8A)
+
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fpsconfeu%2F2025%2FDavidSass%2Freadme.md&countColor=%23263759)
