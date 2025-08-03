@@ -6,6 +6,8 @@ Are you struggling to justify yet another subscription at work while bored to de
 
 In this session, we’ll explore how to integrate Winget into PowerShell scripts and deliver them to your Windows devices using Intune’s remediation scripts feature. We’ll also cover techniques for gathering logs and other complex information, tasks that would otherwise require paid add-ons from the Intune Suite.
 
+[![Watch the video](https://img.youtube.com/vi/tfhU2-J47UA/hqdefault.jpg)](https://www.youtube.com/embed/tfhU2-J47UA)
+
 ## VS Code Extension Deployment with Intune
 
 The VS Code extension marketplace is a double-edged sword: it gives us countless extensions which make our lives a lot easier, but on the other hand it contains malicious extensions impersonating popular tools or just plain simple info stealers. This means there is a significant risk that these extensions can leak your developer credentials together with your source code, and as is stands today we lack a clear way to manage these risk.
